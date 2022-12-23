@@ -758,6 +758,14 @@ footer
         font-size: 1.5em;
         margin-top: 6%;
     }
+    .unforgot-container h2
+    {
+        font-size: 1.3em;
+    }
+    .unforgot-container
+    {
+        padding: 8% 0%;
+    }
 }
 
 /*  mmin width 481px and max width 768px */
